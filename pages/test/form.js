@@ -4,7 +4,7 @@ import styles from '../../styles/Home.module.css'
 
 export default function Home() {
     return (
-        <div class={styles.container}>
+        <div className={styles.container}>
             <form>
                 <p>入力フォーム</p>
                 <input type="text"></input>
